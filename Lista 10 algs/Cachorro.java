@@ -24,7 +24,7 @@ public class Cachorro{
     public String getRaca(){
         return raca;
     }
-    public void setCpf(String raca){
+    public void setRaca(String raca){
         this.raca = raca;
     }
 
